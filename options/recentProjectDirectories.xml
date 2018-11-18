@@ -1,0 +1,92 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects/untitled3" />
+        <option value="$USER_HOME$/WebstormProjects/project2individual-MarissaTDailey" />
+        <option value="$USER_HOME$/WebstormProjects/untitled2" />
+        <option value="$USER_HOME$/WebstormProjects/WebStormProject" />
+        <option value="$USER_HOME$/WebstormProjects/untitled1" />
+        <option value="$USER_HOME$/WebstormProjects/untitled" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/WebstormProjects/untitled3" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/WebstormProjects/untitled3" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/WebstormProjects/WebStormProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4323.44" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538335286866" />
+              <option name="buildTimestamp" value="1535987176794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/project2individual-MarissaTDailey">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4505.50" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539985267144" />
+              <option name="buildTimestamp" value="1538577355901" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4323.44" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538287857656" />
+              <option name="buildTimestamp" value="1535987176794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4323.44" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538332465826" />
+              <option name="buildTimestamp" value="1535987176794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4323.44" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538335288401" />
+              <option name="buildTimestamp" value="1535987176794" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/untitled3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-182.4505.50" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1542556143406" />
+              <option name="buildTimestamp" value="1538577333233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+  </component>
+</application>
